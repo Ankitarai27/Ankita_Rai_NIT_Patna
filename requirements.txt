@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pytesseract
+pdf2image
+Pillow
+requests
+python-multipart
