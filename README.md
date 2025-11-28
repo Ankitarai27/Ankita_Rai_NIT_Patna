@@ -1,1 +1,0 @@
-# Ankita_Rai_NIT_Patna
